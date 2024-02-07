@@ -38,11 +38,11 @@ social:
   email: petru@dolhescu.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/petrudolhescu
     - https://github.com/dolhescu # change to your github homepage
     - https://twitter.com/PetruDolhescu # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/petrudolhescu
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: avatar.jpeg
+avatar: /assets/img/avatar.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
