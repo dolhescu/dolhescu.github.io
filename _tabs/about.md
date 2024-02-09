@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![Petru Dolhescu](/assets/img/PetruDolhescu.png){: w="350" h="350" }
+![Petru Dolhescu](/assets/img/PetruDolhescu.png){: w="300" h="300" }
 
 
 Hello, I'm Petru Dolhescu, an experienced .NET Developer with 6 years in the field. Recently, I've expanded my expertise into DevOps technologies, including Kubernetes and Terraform. Recognizing the diverse nature of my tech skills, I've transitioned from titling myself exclusively as a ".NET Developer" to adopting a more encompassing title: Software Engineer.
