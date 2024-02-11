@@ -24,6 +24,7 @@ In this article, we'll explore a specific scenario where your infrastructure is 
 
 ## Solution: Utilizing Terracognita to export Azure resources into Terraform
 Terracognita is open-source software designed to efficiently and automatically generate Terraform scripts from your manually-provisioned resources. Currently, Terracognita supports importing from various cloud providers, including AWS, GCP, AzureRM, and VMware vSphere, translating them into Terraform.
+
 ### Prerequisites
 To proceed, ensure the following prerequisites are met:
 * A Microsoft Azure account with existing infrastructure
@@ -44,6 +45,7 @@ terracognita --help
 
 #### Create Azure Service Principal
 Terracognita requires a service principal to access Azure resources. Use the following Azure CLI command to create a service principal:
+
 ``` terminal
 az ad sp create-for-rbac --name myServicePrincipalName
                          --role contributor
@@ -65,6 +67,7 @@ Save the output. You'll need the appId, tenant, and password values for configur
 
 #### Running TerraCognita
 Execute the following command in your terminal to run Terracognita:
+
 ``` terminal
 terracognita azurerm --tenant-id '<myTentantId>'
                      --subscription-id '<00000000-0000-0000-0000-000000000000>' 
