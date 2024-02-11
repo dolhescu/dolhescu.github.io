@@ -68,7 +68,7 @@ Execute the following command in your terminal to run Terracognita:
 ``` terminal
 terracognita azurerm --tenant-id '<myTentantId>'
                      --subscription-id '<00000000-0000-0000-0000-000000000000>' 
-                     --tfstate 'resources.tfstate' 
+                     --tfstate 'terraform.tfstate' 
                      --client-id '<myAppId>' 
                      --client-secret '<myServicePrincipalPassword>' 
                      --resource-group-name '<myRG1>' 
