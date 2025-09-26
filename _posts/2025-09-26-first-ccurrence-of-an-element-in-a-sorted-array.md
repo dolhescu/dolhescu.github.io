@@ -31,7 +31,7 @@ public static int FindFirstOccurrenceSimple(List<int> nums, int target)
 }
 ```
 
-> Advantages: simple, easy to understand. Disadvantages: O(n) time complexity, which can be slow for large arrays.
+> Disadvantages: O(n) time complexity, which can be slow for large arrays.
 {: .prompt-warning }
 
 ## Efficient Approach: Binary Search
