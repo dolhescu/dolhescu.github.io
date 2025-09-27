@@ -1,6 +1,6 @@
 ---
 title: "POD #2 – Compare the Triplets"
-date: 2025-09-28 08:00
+date: 2025-09-29 08:00
 categories: [Tech, Coding]
 tags: [algorithm]
 ---
