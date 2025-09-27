@@ -2,7 +2,7 @@
 title: "POD #1 – Finding the First Occurrence of an Element in a Sorted Array"
 date: 2025-09-26 10:00
 categories: [Tech, Coding]
-tags: [algorithm]
+tags: [algorithm, binary search]
 ---
 
 Lately, I’ve started kicking off my workday with simple coding problems—a kind of gym for the neurons. Just 10–15 minutes of focused problem-solving to wake up the brain before diving into real work. Today’s Problem of the Day (POD) is a classic one from HackerRank: finding the first occurrence of a number in a sorted array.
