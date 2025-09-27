@@ -6,7 +6,7 @@ order: 4
 ![Petru Dolhescu](/assets/img/PetruDolhescu.png){: w="300" h="300" }
 
 
-Hello, I’m Petru Dolhescu, an experienced .NET Developer with 6 years in the field. Recently, I’ve expanded my expertise into DevOps technologies, including Kubernetes and Terraform. Recognizing the diverse nature of my tech skills, I’ve changed my professional title from '.NET Developer' to 'Software Engineer' to better reflect my versatile skills across different technologies.
+Hello, I’m Petru Dolhescu, an experienced .NET Developer with 7 years in the field. Recently, I’ve expanded my expertise into DevOps technologies, including Kubernetes and Terraform. Recognizing the diverse nature of my tech skills, I’ve changed my professional title from '.NET Developer' to 'Software Engineer' to better reflect my versatile skills across different technologies.
 
 Furthermore, my passion for software engineering extends to technical writing. In moments without a PC, I immerse myself in books on communication, self-improvement, and financial literacy. Outside the realms of technology and literature, you’ll often find me trekking. A notable accomplishment is conquering the Ridge of Fagaras Mountains, covering a distance of 70 km in a straight line.
 
