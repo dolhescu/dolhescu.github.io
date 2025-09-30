@@ -10,7 +10,7 @@ It’s Tuesday, the second day of the week, but we are already at Problem #3. Th
 These small “imperfections”, breaking away from routines and patterns, are exactly what I enjoy. They remind me that we are all human.  
 
 > And here’s a small confession: there may be days when I won’t publish a *Problem of the Day*. Some days will simply be too packed with production work. But that doesn’t mean I can’t return the next day with the same energy and consistency. With that disclaimer out of the way, let’s get to today’s challenge.
-> {: .prompt-warning }
+{: .prompt-warning }
 
 
 ## Problem Statement
